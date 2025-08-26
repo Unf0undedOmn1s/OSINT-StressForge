@@ -21,13 +21,13 @@ OSINT-StressForge/
 ├── logs/ # Logs generated during testing
 │ ├── error_log.txt
 │ └── resource_usage.log
-├── datasets/ # Input datasets for stress tests
+├── datasets/ # Datasets for stress tests
 │ ├── large_urls.txt
 │ ├── malformed_inputs.txt
 │ └── fuzz_payloads.json
 ├── reports/ # Summary reports
 │ └── results_summary.json
-└── README.md # Project documentation
+└── README.md # Documentation
 ```
 
 
